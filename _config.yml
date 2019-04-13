@@ -13,7 +13,7 @@ github_repo: "https://github.com/Taospirit/qiubaiying.github.io.git" # you code 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "怕什么真理无穷"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/img_head.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 # SNS settings
