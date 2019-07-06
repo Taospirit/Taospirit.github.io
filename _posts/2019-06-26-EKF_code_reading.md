@@ -123,12 +123,19 @@ $$ P_{pred} = J_fP_tJ_f^{T} + Q$$
 
 $$ Z_{pred}= Hx_{pred}$$
 
+
 $$ y = z - z_{pred} $$
+
 
 $$ S = J_HP_{pred}J_H^{T}+R$$
 
+
 $$ K = P_{pred}J_H^{T}S^{-1}$$
+
 
 $$ x_{t+1} = x_{pred}+ Ky $$
 
+
 $$ P_{t+1} = (I - KJ_H)P_{pred} $$
+
+
